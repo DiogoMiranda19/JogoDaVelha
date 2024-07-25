@@ -1,2 +1,2 @@
 # JogoDaVelha
-Website feito como trabalho de faculdade para praticar HTML, CSS e JavaScript
+Website de um jogo da velha feito como trabalho de faculdade para praticar HTML, CSS e JavaScript. 
